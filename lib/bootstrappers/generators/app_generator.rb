@@ -65,7 +65,7 @@ module Bootstrappers
     end
 
     def add_common_js_library
-      say 'Add coomon javascripts to the standard application.js'
+      say 'Add common javascripts to the standard application.js'
     end
 
     def add_common_rake_tasks
